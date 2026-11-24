@@ -11,7 +11,7 @@ The daily schedule is provided below. Click on a course title to view its descri
 
 The complete programme and course descriptions are also available in PDF format:
 
-* [Programme (PDF)](/assets/docs/programme.pdf)
+* [Programme (PDF)](/assets/docs/programme.pdf) (includes links to course descriptions)
 * [Course descriptions (PDF)](/assets/docs/courses.pdf)
 
 

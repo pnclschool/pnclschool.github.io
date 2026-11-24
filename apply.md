@@ -5,7 +5,9 @@ titleshow: Application
 permalink: /apply/
 ---
 
-To apply for the School, please complete the [**Application Form**](https://docs.google.com/forms/d/e/1FAIpQLScsbSCXfDclTeg9egX_PxjqziD6pMvUk-Jb_JjY2IlkIowwcQ/viewform?usp=publish-editor) by 15 January 2027, outlining your motivation for attending. Should the number of applications exceed the number of available places, priority will be given to graduate students with a demonstrated interest in the neurocognitive foundations of language. Applicants will be notified of the outcome of their application by the end of January 2027.
+To apply for the School, please complete the [**Application Form**](https://docs.google.com/forms/d/e/1FAIpQLScsbSCXfDclTeg9egX_PxjqziD6pMvUk-Jb_JjY2IlkIowwcQ/viewform?usp=publish-editor) by 16 January 2027, outlining your motivation for attending. Should the number of applications exceed the number of available places, priority will be given to graduate students with a demonstrated interest in the neurocognitive foundations of language. Applicants will be notified of the outcome of their application by the end of January 2027.
+
+Students who complete a minimum of 12 sessions are entitled to 3 ECTS credits.
 
 **Tuition fee: EUR 120**
 
