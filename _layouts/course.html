@@ -1,0 +1,41 @@
+---
+layout: page
+---
+
+<dl class="course-metadata">
+
+  <p><strong>Lecturer{% if page.lecturer2 %}s{% endif %}:</strong> {{ page.lecturer }} ({{ page.affiliation }}){% if page.lecturer2 %}, {{ page.lecturer2 }} ({{ page.affiliation2 }}){% endif %}</p>
+
+  {% if page.level2 %}
+
+  <p><strong>Class 1:</strong> {{ page.day }}, slot {{ page.slot }}: {{ page.topic }}; <strong>Level:</strong> {{ page.level }}</p>
+  <p><strong>Class 2:</strong> {{ page.day2 }}, slot {{ page.slot2 }}: {{ page.topic2 }}; <strong>Level:</strong> {{ page.level2 }}</p>
+
+  {% elsif page.day2 %}
+
+  <p><strong>Level:</strong> {{ page.level }}</p>
+  <p><strong>Class 1:</strong> {{ page.day }}, slot {{ page.slot }}</p>
+  <p><strong>Class 2:</strong> {{ page.day2 }}, slot {{ page.slot2 }}</p>
+
+  {% elsif page.slot2 %}
+
+  <p><strong>Level:</strong> {{ page.level }}</p>
+  <p><strong>Classes:</strong> {{ page.day }}, slots {{ page.slot }} and {{ page.slot2 }}</p>
+
+  {% else %}
+
+  <p><strong>Level:</strong> {{ page.level }}</p>
+  <p><strong>Class:</strong> {{ page.day }}, slot {{ page.slot }}</p>
+
+  {% endif %}
+</dl>
+
+<div class="course-description">
+  {{ content }}
+</div>
+
+<p>
+  <a href="{{ '/programme/' | relative_url }}">
+    ← Back to programme
+  </a>
+</p>
