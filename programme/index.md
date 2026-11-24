@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Programme
+titleshow: Programme
 permalink: /programme/
 ---
 

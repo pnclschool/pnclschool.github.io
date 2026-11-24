@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+permalink: /
+titleshow: Home
 ---
 
 The Faculty of Philosophy at the University of Novi Sad (Serbia) is delighted to invite you to participate in the 7th International School in **Psycholinguistics, Neurolinguistics and Clinical Linguistics** to be held in person from 12 to 16 April 2027.
