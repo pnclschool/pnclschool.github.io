@@ -7,7 +7,10 @@ permalink: /
 titleshow: Home
 ---
 
-<img src="{{ '/assets/images/banner.svg' | relative_url }}" alt="PNCL Spring School" style="display: block; width: 100%; height: auto; margin-bottom: 24px;">
+<picture>
+  <source media="(max-width: 600px)" srcset="{{ '/assets/images/banner-mobile.svg' | relative_url }}">
+  <img src="{{ '/assets/images/banner.svg' | relative_url }}" alt="PNCL Spring School" style="display: block; width: 100%; height: auto; margin-bottom: 24px;">
+</picture>
 
 The Faculty of Philosophy at the University of Novi Sad (Serbia) is delighted to invite you to participate in the 7th International School in **Psycholinguistics, Neurolinguistics and Clinical Linguistics** to be held in person from 12 to 16 April 2027.
 
