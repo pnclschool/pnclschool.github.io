@@ -9,7 +9,7 @@ To apply for the School, please complete the [**Application Form**](https://docs
 
 Students who complete a minimum of 12 sessions are entitled to 3 ECTS credits.
 
-**Tuition fee: EUR 120**
+**Tuition fee: 120 EUR**
 
 The tuition fee must be received by the host institution by 1 March 2027, following notification of acceptance at the end of January. All bank transfer charges must be covered by the applicants.
 

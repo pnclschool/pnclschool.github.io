@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="740"
+   height="100"
+   viewBox="0 0 195.79166 26.458333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="header.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.97134925"
+     inkscape:cx="411.79833"
+     inkscape:cy="42.724077"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.81700116,-0.09583829)">
+    <g
+       stroke="#000000"
+       stroke-width="1.3"
+       stroke-linejoin="round"
+       id="g70"
+       transform="matrix(0.03734164,0,0,0.03734164,6.2281743,0.05347456)">
+      <path
+         fill="#dd0c1a"
+         d="m 148,149 c 19,-34 48,-52 83,-58 l 19,45 z"
+         id="path1" />
+      <path
+         fill="#b3431f"
+         d="M 148,149 250,136 177,244 94,217 c 8,-31 27,-54 54,-68 z"
+         id="path2" />
+      <path
+         fill="#f6241b"
+         d="m 231,91 c 22,-17 50,-27 78,-27 l 26,52 z"
+         id="path3" />
+      <path
+         fill="#f95713"
+         d="m 231,91 104,25 -85,20 z"
+         id="path4" />
+      <path
+         fill="#fa5712"
+         d="m 309,64 c 25,-14 56,-16 81,-9 l -55,61 z"
+         id="path5" />
+      <path
+         fill="#e53032"
+         d="m 390,55 c 19,-9 46,-8 65,2 l -77,51 z"
+         id="path6" />
+      <path
+         fill="#d70e1c"
+         d="m 390,55 -12,53 -96,68 53,-60 z"
+         id="path7" />
+      <path
+         fill="#890be3"
+         d="m 455,57 c 19,-8 42,-5 59,6 l -74,77 z"
+         id="path8" />
+      <path
+         fill="#5c0ae5"
+         d="m 455,57 -15,83 -31,36 -31,-68 z"
+         id="path9" />
+      <path
+         fill="#d654f7"
+         d="m 514,63 c 14,-3 26,2 37,7 l -59,89 -83,17 31,-36 z"
+         id="path10" />
+      <path
+         fill="#500f8b"
+         d="m 551,70 c 22,4 42,12 51,27 l -61,34 -49,28 z"
+         id="path11" />
+      <path
+         fill="#5d09e7"
+         d="m 602,97 c 22,-1 37,13 39,33 l -67,66 -15,-35 -18,-30 z"
+         id="path12" />
+      <path
+         fill="#880ce4"
+         d="m 641,130 c 24,0 40,13 45,34 l -112,32 z"
+         id="path13" />
+      <path
+         fill="#ea0978"
+         d="m 686,164 c 16,12 28,28 27,45 l -44,33 -24,-23 z"
+         id="path14" />
+      <path
+         fill="#d655f7"
+         d="m 686,164 -41,55 -52,68 -19,-91 z"
+         id="path15" />
+      <path
+         fill="#c6179e"
+         d="m 713,209 c 13,11 28,32 22,48 l -78,30 12,-45 z"
+         id="path16" />
+      <path
+         fill="#5e1240"
+         d="m 735,257 c 14,13 16,24 11,37 13,11 14,26 7,41 l -96,-48 z"
+         id="path17" />
+      <path
+         fill="#f51bbf"
+         d="m 753,335 c 6,22 -10,40 -32,45 l -64,-93 z"
+         id="path18" />
+      <path
+         fill="#f3f95f"
+         d="m 721,380 c 5,6 8,16 10,26 l -82,5 3,-30 z"
+         id="path19" />
+      <path
+         fill="#e90979"
+         d="m 721,380 -69,1 5,-94 z"
+         id="path20" />
+      <path
+         fill="#c7e03e"
+         d="m 731,406 c 4,10 1,25 -3,33 l -84,7 5,-35 z"
+         id="path21" />
+      <path
+         fill="#f2fa5f"
+         d="m 728,439 c -7,18 -24,30 -45,35 l -39,-1 v -27 z"
+         id="path22" />
+      <path
+         fill="#f0fc61"
+         d="m 683,474 c -3,11 -8,22 -14,28 l -22,-13 -3,-16 z"
+         id="path23" />
+      <path
+         fill="#c3e041"
+         d="m 669,502 c -13,16 -35,24 -56,25 l 34,-38 z"
+         id="path24" />
+      <path
+         fill="#ebfa2a"
+         d="m 613,527 c -16,2 -33,-4 -40,-10 l 27,-16 44,-28 3,16 z"
+         id="path25" />
+      <path
+         fill="#ebfa29"
+         d="m 573,517 -31,-33 33,-10 25,27 z"
+         id="path26" />
+      <path
+         fill="#283f21"
+         d="m 573,517 c -13,47 -16,101 -10,145 h -23 l 2,-178 z"
+         id="path27" />
+      <path
+         fill="#b9f6a2"
+         d="m 540,662 h -27 c 10,-58 5,-114 -15,-156 l 44,-22 z"
+         id="path28" />
+      <path
+         fill="#283f21"
+         d="m 498,506 c -11,-12 -20,-24 -24,-35 l 53,-16 15,29 z"
+         id="path29" />
+      <path
+         fill="#273f20"
+         d="m 474,471 c -26,-10 -38,-22 -45,-43 l 51,-15 z"
+         id="path30" />
+      <path
+         fill="#b9f6a1"
+         d="m 474,471 6,-58 47,21 v 21 z"
+         id="path31" />
+      <path
+         fill="#6d9cf5"
+         d="m 429,428 3,-33 95,-28 -47,46 z"
+         id="path32" />
+      <path
+         fill="#2138ab"
+         d="m 429,428 c -12,13 -34,21 -56,24 l -23,-67 82,10 z"
+         id="path33" />
+      <path
+         fill="#3861f6"
+         d="m 373,452 c -22,5 -47,3 -66,-6 l 43,-61 z"
+         id="path34" />
+      <path
+         fill="#6c9cf6"
+         d="m 307,446 c -34,-12 -56,-32 -65,-59 l 93,-28 15,26 z"
+         id="path35" />
+      <path
+         fill="#3762f4"
+         d="m 242,387 c -4,-11 -5,-23 -7,-31 l 100,-42 v 45 z"
+         id="path36" />
+      <path
+         fill="#dd0c1a"
+         d="M 235,356 177,244 282,268 Z"
+         id="path37" />
+      <path
+         fill="#f95812"
+         d="m 235,356 47,-88 53,46 z"
+         id="path38" />
+      <path
+         fill="#f34729"
+         d="m 235,356 c -24,13 -56,17 -84,13 l 26,-125 z"
+         id="path39" />
+      <path
+         fill="#fa5712"
+         d="M 151,369 C 111,361 88,341 75,312 l 102,-68 z"
+         id="path40" />
+      <path
+         fill="#8e0e24"
+         d="M 75,312 C 61,286 67,246 94,217 l 83,27 z"
+         id="path41" />
+      <path
+         fill="#f0482b"
+         d="m 250,136 85,-20 -53,60 z"
+         id="path42" />
+      <path
+         fill="#f5251a"
+         d="m 250,136 32,40 v 92 L 177,244 Z"
+         id="path43" />
+      <path
+         fill="#19152f"
+         d="m 378,108 31,68 H 282 Z"
+         id="path44" />
+      <path
+         fill="#d655f8"
+         d="M 282,176 H 409 L 368,289 Z"
+         id="path45" />
+      <path
+         fill="#b34420"
+         d="m 282,176 86,113 -33,25 -53,-46 z"
+         id="path46" />
+      <path
+         fill="#5d09e6"
+         d="m 409,176 83,-17 22,38 -15,52 z"
+         id="path47" />
+      <path
+         fill="#500e8c"
+         d="m 409,176 90,73 -131,40 z"
+         id="path48" />
+      <path
+         fill="#19152f"
+         d="m 492,159 49,-28 18,30 -45,36 z"
+         id="path49" />
+      <path
+         fill="#860dde"
+         d="m 559,161 15,35 -60,1 z"
+         id="path50" />
+      <path
+         fill="#191530"
+         d="m 514,197 60,-1 19,91 -94,-38 z"
+         id="path51" />
+      <path
+         fill="#5f1240"
+         d="m 645,219 24,23 -12,45 h -64 z"
+         id="path52" />
+      <path
+         fill="#2137aa"
+         d="m 368,289 131,-40 -91,70 z"
+         id="path53" />
+      <path
+         fill="#c4e1f9"
+         d="m 368,289 40,30 -73,40 v -45 z"
+         id="path54" />
+      <path
+         fill="#3763f2"
+         d="m 499,249 94,38 -70,6 z"
+         id="path55" />
+      <path
+         fill="#6b9cf5"
+         d="m 499,249 24,44 -62,44 z"
+         id="path56" />
+      <path
+         fill="#3762f4"
+         d="m 499,249 -38,88 -53,-18 z"
+         id="path57" />
+      <path
+         fill="#f81bc0"
+         d="m 593,287 h 64 l -5,94 z"
+         id="path58" />
+      <path
+         fill="#3662f5"
+         d="m 593,287 59,94 -125,-14 z"
+         id="path59" />
+      <path
+         fill="#6c9cf5"
+         d="m 593,287 -66,80 -4,-74 z"
+         id="path60" />
+      <path
+         fill="#6c9bf6"
+         d="m 408,319 53,18 -29,58 z"
+         id="path61" />
+      <path
+         fill="#3862f5"
+         d="m 408,319 24,76 -82,-10 -15,-26 z"
+         id="path62" />
+      <path
+         fill="#b2d8f9"
+         d="m 461,337 62,-44 4,74 z"
+         id="path63" />
+      <path
+         fill="#2237aa"
+         d="m 461,337 66,30 -95,28 z"
+         id="path64" />
+      <path
+         fill="#c4e1f8"
+         d="m 527,367 125,14 -73,26 z"
+         id="path65" />
+      <path
+         fill="#2238aa"
+         d="m 527,367 52,40 -52,27 z"
+         id="path66" />
+      <path
+         fill="#c4e1fa"
+         d="m 527,367 v 67 l -47,-21 z"
+         id="path67" />
+      <path
+         fill="#ecb30a"
+         d="m 652,381 -3,30 -122,44 v -21 l 52,-27 z"
+         id="path68" />
+      <path
+         fill="#c1aa32"
+         d="m 527,455 122,-44 -5,35 -69,28 -33,10 z"
+         id="path69" />
+      <path
+         fill="#c7e03f"
+         d="m 644,446 v 27 l -44,28 -25,-27 z"
+         id="path70" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:#556095;stroke-width:0.264583"
+       x="36.881557"
+       y="11.074114"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Orto RNIDS';-inkscape-font-specification:'Orto RNIDS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b22d2d;fill-opacity:1;stroke-width:0.264583"
+         x="36.881557"
+         y="11.074114">7th International Spring School in</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Orto RNIDS';-inkscape-font-specification:'Orto RNIDS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b22d2d;fill-opacity:1;stroke-width:0.264583"
+         x="36.881557"
+         y="17.747606"
+         id="tspan2">Psycholinguistics, Neurolinguistics and Clinical Linguistics</tspan></text>
+  </g>
+</svg>
