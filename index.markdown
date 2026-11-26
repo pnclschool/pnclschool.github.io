@@ -5,6 +5,9 @@
 layout: page
 permalink: /
 titleshow: Home
+image:
+  path: /assets/images/social-preview.png
+  alt: PNCL Spring School
 ---
 
 <picture>
